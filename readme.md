@@ -1,10 +1,10 @@
-# ComfyUI-AdamWhiteC 节点组
+# ComfyUI-AdamNodes 节点组
 
 ## 简介 / Introduction
 
-ComfyUI-AdamWhiteC 是一组专注于文本处理的节点集合，为 ComfyUI 提供了丰富的文本操作功能。这些节点可以帮助用户进行多行文本处理、文本随机化、正则表达式处理等操作，极大地增强了 ComfyUI 在文本处理方面的能力。
+ComfyUI-AdamNodes 是一组专注于文本处理的节点集合，为 ComfyUI 提供了丰富的文本操作功能。这些节点可以帮助用户进行多行文本处理、文本随机化、正则表达式处理等操作，极大地增强了 ComfyUI 在文本处理方面的能力。
 
-ComfyUI-AdamWhiteC is a collection of nodes focused on text processing, providing rich text operation functions for ComfyUI. These nodes can help users perform multi-line text processing, text randomization, regular expression processing, and other operations, greatly enhancing ComfyUI's capabilities in text processing.
+ComfyUI-AdamNodes is a collection of nodes focused on text processing, providing rich text operation functions for ComfyUI. These nodes can help users perform multi-line text processing, text randomization, regular expression processing, and other operations, greatly enhancing ComfyUI's capabilities in text processing.
 
 ## 节点列表 / Node List
 
