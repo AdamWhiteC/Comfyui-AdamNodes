@@ -1,5 +1,5 @@
 # ComfyUI-AdamNodes 节点组
-![流程图](https://github.com/AdamWhiteC/Comfyui-AdamNodes/blob/main/images/workflow.png)
+![流程图](https://raw.githubusercontent.com/AdamWhiteC/Comfyui-AdamNodes/refs/heads/main/images/workflow.png)
 ## 简介 / Introduction
 
 ComfyUI-AdamNodes 是一组专注于文本处理的节点集合，为 ComfyUI 提供了丰富的文本操作功能。这些节点可以帮助用户进行多行文本处理、文本随机化、正则表达式处理等操作，极大地增强了 ComfyUI 在文本处理方面的能力。
